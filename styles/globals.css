@@ -1,3 +1,6 @@
+/*this page was in the app folder along with page.module.css */
+@import "~bootstrap/dist/css/bootstrap.min.css"; 
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
